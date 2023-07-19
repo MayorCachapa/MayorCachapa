@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, I'm Alejandro Rodríguez Hernández</h1>
 <h3 align="center">Fullstack developer and Finance Professional</h3>
 
-- 🔭 I’m currently working on **DRF Integrations**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Vue.js + Nuxt**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Django, Rails, React.js**
 
